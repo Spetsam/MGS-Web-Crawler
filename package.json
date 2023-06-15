@@ -1,0 +1,15 @@
+{
+  "name": "web-crawler-mgs",
+  "version": "1.0.0",
+  "description": "Web Crawler made in Node.js by MGS",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Marko Gagoski",
+  "license": "MGS",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
